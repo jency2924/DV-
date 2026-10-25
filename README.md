@@ -109,6 +109,39 @@ This repository contains my weekly data analysis tasks completed using Python, P
 
 ---
 
+## Task 8 - Student Performance Visualization, Demographic Analysis & Educational Insights
+
+**Dataset:** Students Performance Dataset
+
+**Completed Work:**
+
+* Loaded and explored student performance data.
+* Created grouped bar charts comparing average Math, Reading and Writing scores across parental education levels and lunch types.
+* Created box plots comparing Mathematics score distributions based on test preparation completion.
+* Created scatter plots to analyze relationships between Math, Reading and Writing scores.
+* Generated a correlation heatmap for subject scores.
+* Identified student performance patterns through data visualization.
+* Provided educational equity insights and policy recommendations.
+
+---
+
+## Task 9 - House Price Data Analysis, Feature Engineering & Outlier Detection
+
+**Dataset:** King County House Sales Dataset (`kc_house_data.csv`)
+
+**Completed Work:**
+
+* Loaded and explored the house sales dataset.
+* Inspected data types, descriptive statistics, missing values and duplicate records.
+* Analyzed property features including bedrooms, bathrooms, living area, grade and year built.
+* Extracted sale year from the date column.
+* Created property age and renovation-related features.
+* Calculated price per square foot of living area and lot area.
+* Created box plots to visualize price-per-square-foot distributions.
+* Applied the Interquartile Range (IQR) method to calculate outlier boundaries and identify potential outliers.
+
+---
+
 ## Tools & Technologies
 
 * Python
@@ -122,4 +155,6 @@ This repository contains my weekly data analysis tasks completed using Python, P
 
 ## Conclusion
 
-These tasks provide practical experience in data cleaning, exploratory data analysis, statistical analysis, visualization, feature engineering, time-series analysis and outlier detection using Python.
+These weekly tasks provide practical experience in data cleaning, exploratory data analysis, statistical analysis, visualization, feature engineering, time-series analysis, correlation analysis and outlier detection using Python.
+
+The projects also develop skills in interpreting datasets, identifying patterns, and presenting data-driven insights and recommendations.
